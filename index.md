@@ -10,7 +10,7 @@ Benvenuto nell'ambientazione Italia Post-Apocalittica.
 
 - [Storia Prebellica](02-Storia/02.0-situazione-prebellica-panoramica)
 - [Geografia](03-Geografia/03.0-geografia-panoramica)
-- [Società](04-Societa/04.0-società-panoramica)
+- [Società](04-Societa/04.0-societa-panoramica)
 - [Fazioni](05-Fazioni/05.0-fazioni-panoramica)
 - [Luoghi](06-Luoghi/06.0-luoghi-panoramica)
 - [Creature](07-Creature/07.0-creature-panoramica)
