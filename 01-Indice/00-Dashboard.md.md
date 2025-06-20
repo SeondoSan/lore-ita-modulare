@@ -3,7 +3,7 @@
 ## Navigazione Rapida
 - [[02.0-situazione-prebellica-panoramica|Storia Prebellica]]
 - [[03.0-geografia-panoramica|Geografia]]
-- [[04.0-societa-panoramica|Società]]
+- [[04.0-società-panoramica|Società]]
 - [[05.0-fazioni-panoramica|Fazioni]]
 - [[06.0-luoghi-panoramica|Luoghi]]
 - [[07.0-creature-panoramica|Creature]]
